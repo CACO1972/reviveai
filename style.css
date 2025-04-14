@@ -1,0 +1,44 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #0a0a0a;
+    color: white;
+    line-height: 1.6;
+}
+section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+h1, h2 {
+    color: #00e0d6;
+}
+.funciona h2, .resultados h2 {
+    color: #b93939;
+}
+.cta, .cta-b {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 25px;
+    background-color: #00e0d6;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.cta-b {
+    background-color: #b93939;
+    color: #fff;
+}
+footer {
+    background-color: #111;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #ccc;
+}
+footer a {
+    color: #00e0d6;
+    text-decoration: none;
+}
